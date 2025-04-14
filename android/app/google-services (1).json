@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "316070184357",
+    "project_id": "advprj-25e54",
+    "storage_bucket": "advprj-25e54.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316070184357:android:f55f603e428b8d4c25544c",
+        "android_client_info": {
+          "package_name": "com.example.advprj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzKTkMGOeAqDekZ6sJtB33v8qmCp2hQ08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
